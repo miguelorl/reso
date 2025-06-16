@@ -6,3 +6,5 @@ opt_einsum==3.4.0
 optree==0.16.0
 packaging==25.0
 pandas==2.3.0
+tensorflow-cpu==2.19.0
+tensorflow==2.19.0
